@@ -1,0 +1,13 @@
+<div style="padding-left:80px; radius:50px;">
+  <br>
+  <img src = "mockup1.jpg" width="375px">
+</div>
+
+<div class = "googleplay">
+    <img src = "googleplay.png" >
+</div>
+<style>
+    div.googleplay{
+        width: 200px;
+    }
+</style>
